@@ -1,0 +1,33 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 05 Apr 2024, 11:00:42
+    Author     : steveakester
+*/
+body{
+        font-size: 8px;
+        font-family: Verdana, Arial, sans-serif;
+    }
+    input{
+        font-size: 8px;
+        background-color: #ffcccc;
+    }
+    /* CSS to set the border-spacing */
+    .spacing-table {
+        border-collapse: separate;
+        border-spacing: 10px 2px;
+
+    }
+    .spacing-table th {
+        font-weight: bold;
+
+    }
+    .linked{
+        font-weight: bold;
+        color: blue;
+        cursor:pointer;
+        text-decoration: underline;
+
+    }
